@@ -1,7 +1,5 @@
-class FizzBuzz {
-    printBy(data) {
-        console.log('Silahkan ubah file fizzbuzz.js');
-    }
+const fizzBuzz = function(data) {
+    console.log('Silahkan ubah file fizzbuzz.js');
 }
 
-module.exports = FizzBuzz;
+module.exports = fizzBuzz;
