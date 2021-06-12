@@ -1,0 +1,30 @@
+{
+  "name": "cs04",
+  "version": "1.0.0",
+  "description": "Computer Science - Case Study 04 - FizzBuzz pada Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affandes/cs04.git"
+  },
+  "keywords": [
+    "computer",
+    "science",
+    "javascript",
+    "fizzbuzz",
+    "algorithm",
+    "algoritma",
+    "js",
+    "nodejs"
+  ],
+  "author": "Muhammad Affandes <affandes@uin-suska.ac.id>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/affandes/cs04/issues"
+  },
+  "homepage": "https://github.com/affandes/cs04#readme",
+  "devDependencies": {}
+}
